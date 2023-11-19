@@ -1,0 +1,21 @@
+body {
+    background-color: #edf6f1;
+  }
+.product_1{
+    background-color: #fff;
+}
+ul {
+  list-style: none;
+}
+
+.custom-border{
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.span_2 {
+  text-decoration: line-through;
+  color: #ccc;
+}
